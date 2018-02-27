@@ -1,3 +1,3 @@
 ## autoencoder
 
-Notebooks from handson at FETI BrainLab (trimmed & flavored afterwards)
+Notebooks from hands-on at FETI BrainLab (trimmed & flavored afterwards)
